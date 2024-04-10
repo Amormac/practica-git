@@ -2,4 +2,4 @@
 repositorio creado en github para aprender git / github
 
 ## descripcion
-creado con el fin de seguir el curso de dalto
+creado con el fin de seguir el curso de dalto para aprender github
